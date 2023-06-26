@@ -1,1 +1,0 @@
-# evalution of full statck app
